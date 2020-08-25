@@ -6,7 +6,7 @@ Initially the project was written with NodeJS architecture. [View Old Project](h
 
 HTML is used for making initial block structure of the page with some simple data, CSS is used for giving some style to the page and JS is used to create small UI components dynamically and fill the data into page. All the data about details related to user is stored as a JSON object in a JS file.
 
-View it in action https://imvpn22.github.io/resume/
+View it in action https://krsanu555.github.io/resume/
 
 ### Getting Started
 
