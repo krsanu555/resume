@@ -26,7 +26,7 @@ The project need to be hosted using any Web-Server like `apache`, `tomcat`, `htt
 1. Clone the repo using git or download zip of project on your local system.
 To clone
 ```bash
-$ git clone https://github.com/imvpn22/resume.git
+$ git clone https://github.com/krsanu555/resume.git
 ```
 
 2. Go into the `resume` directory and run
