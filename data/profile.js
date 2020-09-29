@@ -82,7 +82,7 @@ const profileData = {
       title: 'Predicting Loan Status',
       duration: 'Sep 2020',
       link: 'https://github.com/krsanu555/analyzing-and-predicting-loan-case',
-      desc: `This project will help bank people, to predict the loan status of customers whether they will pay off they their loan or not.`
+      desc: `This project will help bankers to predict the loan status of customers of a bank on the basis of previous data of the customers who have already taken loan from that bank.`
     },
    {
       title: 'Cancer Detection',
