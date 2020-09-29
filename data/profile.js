@@ -54,7 +54,7 @@ const profileData = {
       category: 'Frameworks / Libraries',
       topics: ['.Net', 'Angular','Django','Scikit-learn','Pytorch','Keras','Numpy','Pandas','Matplotlib']
     },
-    {
+    /*{
       graph: 'false',
       category: 'Machine Learning',
       topics: ['SVM', 'Decision Tree','Logistic Regression','Random Forest','Linear Regression','KNN','Clustering']
@@ -63,7 +63,7 @@ const profileData = {
       graph: 'false',
       category: 'Deep Learning',
       topics: ['Neural Networks', 'Computer Vision','Object Detection']
-    }
+    }*/
   ],
   projects: [
     {
