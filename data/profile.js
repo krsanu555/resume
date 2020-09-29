@@ -27,8 +27,8 @@ const profileData = {
     },
     {
       alma: 'Anugrah Inter School,Aurangabad',
-      duration: '2014',
-      std: 'XII (PCM)',
+      duration: '2012-2014',
+      std: 'XI-XII (PCM)',
       score: '76.60%'
     },
     {
@@ -42,7 +42,7 @@ const profileData = {
     {
       graph: 'false',
       category: 'Programming Languages',
-      topics: ['JavaScript','C#', 'Python']
+      topics: ['Python','C#','JavaScript']
     },
     {
       graph: 'false',
@@ -52,10 +52,46 @@ const profileData = {
     {
       graph: 'false',
       category: 'Frameworks / Libraries',
-      topics: ['.Net', 'Angular','Django','Scikit-learn','Pytorch']
+      topics: ['.Net', 'Angular','Django','Scikit-learn','Pytorch','Keras']
     }
   ],
   projects: [
+    {
+      title: 'Drug Prescription',
+      duration: 'Sep 2020',
+      link: 'https://github.com/krsanu555/drug-prescription',
+      desc: `The objective of this project is to help doctors to find out which drug might be appropriate for a future patient with the same illness based on factors such as Age, Sex, Blood Pressure, and Cholesterol of patients.`
+    },
+   {
+      title: 'House Price Prediction',
+      duration: 'Sep 2020',
+      link: 'https://github.com/krsanu555/house-price-predictor',
+      desc: `The aim of this project is to determine the price of the house based on housing conditions.`
+    },
+   {
+      title: 'Predicting Loan Status',
+      duration: 'Sep 2020',
+      link: 'https://github.com/krsanu555/analyzing-and-predicting-loan-case',
+      desc: `This project will help bank people, to predict the loan status of customers whether they will pay off they their loan or not.`
+    },
+   {
+      title: 'Cancer Detection',
+      duration: 'Sep 2020',
+      link: 'https://github.com/krsanu555/cancer-detection',
+      desc: `The objective of this project is to detect whether the specified person has cancer or not on the basis of human cells record.`
+    },
+   {
+      title: 'Predicting Customer Churn',
+      duration: 'Sep 2020',
+      link: 'https://github.com/krsanu555/predicting_customer_churn',
+      desc: `This project will help telecommunication company, to predict when its customers will leave for a competitor, so that they can take some action to retain the customers.`
+    },
+    {
+      title: 'Recommendation Engine',
+      duration: 'Sep 2020',
+      link: 'https://github.com/krsanu555/movie-recommendation-engine',
+      desc: `The objective of this project is to recommend movies to the user based on favourite aspects of an item drawn from the previously watched movies and similarity of the other users that have similar preferences and opinions to this user.`
+    },
     {
       title: 'Opening New Bar in Delhi,India',
       duration: 'July- Aug 2020',
@@ -70,10 +106,13 @@ const profileData = {
       desc: `Sr Software Engineer`,
       date: 'Nov 2018 - Present',
       details: [
-        `Contributed in the development of multiple projects of client in <strong>Health Care domain</strong> by converting the existing .Net mvc architecture web applications into separate front-end client and back-end servers
-        by using <strong>Angular</strong> and <strong>Django Rest Framework.</strong>`,
-        
-        `Worked on Enhancement tasks for many old applications includes creation of different environment build and config profiles,securing configuration files`
+        `Contributed in the development of an application of client in <strong>Health Care domain</strong> by converting the existing .Net mvc architecture web 
+         application into separate front-end client and back-end servers by using <strong>Angular</strong> and <strong>Django Rest Framework.</strong>`,        
+        `Worked on Enhancement tasks for many old .Net applications includes creating and securing build & config profiles for different environments 
+         i.e. Development,QA and Production.`,
+	`Secured APIs using AD Groups and made it accessible only through Client Network.`,
+	`Optimised method for generating report in Excel format through database restructuring and some code changes for the associated application by 80%.`,
+	`Worked on making one existing application more user friendly.`
       ]
     },
     {
@@ -82,11 +121,12 @@ const profileData = {
       desc: `<strong>Full-Stack Developer intern</strong> at  <a target='_blank' href='https://www.wildnettechnologies.com/'> <strong>Wildnet Technology </strong> </a> (<a target='_blank' href='http://ep3dev.azurewebsites.net/'>Project Link</a>)`,
       date: 'Jun 2018 - Oct 2018',
       details: [
-        `Designed and developed a <strong>E-Commerce Web Application</strong> using <strong>ASP.Net MVC </strong>.This application includes functionality related to different roles i.e. Supplier,Producer, Admin and End User.`,
+        `Designed and developed a <strong>E-Commerce Web Application</strong> using <strong>ASP.Net MVC </strong>.
+         This application includes functionality related to different roles i.e. Supplier,Producer, Admin and End User.`,
 
         `Modified the <strong>Multi-level Menu</strong> for different category of products using <strong>Jquery</strong>, <strong>Ajax</strong> and 
         <strong>Asp.net</strong>.`,
-		`Worked on Payment Gateway Integration for this app.`
+	`Worked on Payment Gateway Integration for this app.`
       ]
     }
   ],
@@ -95,19 +135,19 @@ const profileData = {
       title: 'certifications',
       body: [
 	  {
-          desc: `<strong>Applied Data Science Specialization</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/specialization/certificate/WREG2ZJBGW2D'>link</a>)`,
-          date: 'July 2020'
+          desc: `<strong>IBM Data Science Professional Certificate</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/specialization/certificate/SLENGR7SW2NC'>https://goo.gl/RZXcVr</a>)`,
+          date: 'Sep 2020'
         },
 	  {
-          desc: `<strong>Python for Data Science and AI</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/certificate/PQY9FMQY2P8P'>link</a>)`,
+          desc: `<strong>Applied Data Science Specialization</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/specialization/certificate/WREG2ZJBGW2D'>https://goo.gl/DSRcVr</a>)`,
+          date: 'Aug 2020'
+        },	  
+        {
+          desc: `<strong>Python</strong>, certified by <strong>Hackerrank</strong>. (View Certificate: <a target='_blank' href='https://www.hackerrank.com/certificates/324ec622f4d7'>https://goo.gl/X3HEdR</a>)`,
           date: 'July 2020'
         },
         {
-          desc: `<strong>Python</strong>, certified by <strong>Hackerrank</strong>. (View Certificate: <a target='_blank' href='https://www.hackerrank.com/certificates/324ec622f4d7'>link</a>)`,
-          date: 'July 2020'
-        },
-        {
-          desc: `<strong>JavaScript Algorithms and Data Structures</strong> by <strong>freeCodeCamp</strong> (View Certificate: <a target='_blank' href='https://www.freecodecamp.org/certification/krsanu555/javascript-algorithms-and-data-structures'>link</a>)`,
+          desc: `<strong>JavaScript Algorithms and Data Structures</strong> by <strong>freeCodeCamp</strong> (View Certificate: <a target='_blank' href='https://www.freecodecamp.org/certification/krsanu555/javascript-algorithms-and-data-structures'>: https://goo.gl/ZRTvCU</a>)`,
           date: 'June 2019'
         }
       ]
