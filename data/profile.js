@@ -170,7 +170,7 @@ const profileData = {
           date: 'Aug 2020'
         },
 	{
-          desc: `<strong>AWS Builders Online Series</strong>by <strong>AWS</strong>. (<a target='_blank' href='https://tinyurl.com/y3spk6mx'>https://goo.gl/ZDVyTr</a>)`,
+          desc: `<strong>AWS Builders Online Series</strong> by <strong>AWS</strong>. (<a target='_blank' href='https://tinyurl.com/y3spk6mx'>https://goo.gl/ZDVyTr</a>)`,
           date: 'Aug 2020'
         }
       ]
