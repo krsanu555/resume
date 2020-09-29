@@ -1,7 +1,7 @@
 const profileData = {
   title: 'Resume',
   name: 'Kumar Sanu',
-  sub_title: 'Backend Developer',
+  sub_title: 'Software Engineer',
   logoURL: 'assets/images/dp.jpg',
   about: {
     intro: `I am an innovative and passionate developer with a primary interest in <strong>Python</strong>
