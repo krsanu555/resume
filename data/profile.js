@@ -94,7 +94,7 @@ const profileData = {
       title: 'Predicting Customer Churn',
       duration: 'Sep 2020',
       link: 'https://github.com/krsanu555/predicting_customer_churn',
-      desc: `This project will help telecommunication company, to predict when its customers will leave for a competitor, so that they can take some action to retain the customers.`
+      desc: `This project will help telecommunication company to predict when its customers will leave for a competitor, so that they can take some action to retain the customers.`
     },
     {
       title: 'Recommendation Engine',
@@ -151,7 +151,11 @@ const profileData = {
 	  {
           desc: `<strong>Applied Data Science Specialization</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/specialization/certificate/WREG2ZJBGW2D'>https://goo.gl/DSRcVr</a>)`,
           date: 'Aug 2020'
-        },	  
+        },
+	 {
+          desc: `<strong>AWS Builders Online Series</strong>, certified by <strong>AWS</strong>. (View Certificate: <a target='_blank' href='https://tinyurl.com/y3spk6mx'>https://goo.gl/ZDVyTr</a>)`,
+          date: 'Aug 2020'
+        },
         {
           desc: `<strong>Python</strong>, certified by <strong>Hackerrank</strong>. (View Certificate: <a target='_blank' href='https://www.hackerrank.com/certificates/324ec622f4d7'>https://goo.gl/X3HEdR</a>)`,
           date: 'July 2020'
