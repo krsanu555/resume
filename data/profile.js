@@ -42,7 +42,7 @@ const profileData = {
     {
       graph: 'false',
       category: '',
-      topics: ['Python','Pandas','Numpy','Data Analysis','Data Visualization','Machine Learning','Deep Learning','Git','SQL','MySQL']
+      topics: ['Python','Pandas','Numpy','Data Analysis','Data Visualization','Machine Learning','Git','SQL','MySQL','Deep Learning']
     },
    /* {
       graph: 'false',
