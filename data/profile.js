@@ -41,7 +41,7 @@ const profileData = {
   skills: [
     {
       graph: 'false',
-      category: '',
+      category: 's',
       topics: ['Python','Pandas','Numpy','Data Analysis','Data Visualization','Machine Learning','Deep Learning','Git','SQL','MySQL']
     },
    /* {
