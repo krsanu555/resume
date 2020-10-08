@@ -122,8 +122,8 @@ const profileData = {
       desc: `Sr Software Engineer`,
       date: 'Nov 2018 - Present',
       details: [
-        `Contributed in the development of an application of client in <strong>Health Care domain</strong> by converting the existing .Net mvc architecture web 
-         application into separate front-end client and back-end servers by using <strong>Angular</strong> and <strong>Django Rest Framework.</strong>`
+        `Contributed in the development of an application of client in <strong>Health Care domain</strong> by converting the existing .Net MVC architecture web 
+         application into separate front-end client and back-end servers by using <strong>ASP.Net Web API.</strong>`
       ]
     },
     {
