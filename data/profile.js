@@ -52,63 +52,17 @@ const profileData = {
     {
       graph: 'false',
       category: 'Frameworks / Libraries',
-      topics: ['.Net', 'Angular','Django','Scikit-learn','Pytorch','Keras','Numpy','Pandas','Matplotlib']
-    },
-    /*{
-      graph: 'false',
-      category: 'Machine Learning',
-      topics: ['SVM', 'Decision Tree','Logistic Regression','Random Forest','Linear Regression','KNN','Clustering']
-    },
-    {
-      graph: 'false',
-      category: 'Deep Learning',
-      topics: ['Neural Networks', 'Computer Vision','Object Detection']
-    }*/
+      topics: ['.Net', 'Angular','Django']
+    }
   ],
-  projects: [
+  /*projects: [
     {
       title: 'Drug Prescription',
       duration: 'Sep 2020',
       link: 'https://github.com/krsanu555/drug-prescription',
       desc: `The objective of this project is to help doctors to find out which drug might be appropriate for a future patient with the same illness based on factors such as Age, Sex, Blood Pressure, and Cholesterol of patients.`
-    },
-   {
-      title: 'House Price Prediction',
-      duration: 'Sep 2020',
-      link: 'https://github.com/krsanu555/house-price-predictor',
-      desc: `The aim of this project is to determine the price of the house based on housing conditions.`
-    },
-   {
-      title: 'Predicting Loan Status',
-      duration: 'Sep 2020',
-      link: 'https://github.com/krsanu555/analyzing-and-predicting-loan-case',
-      desc: `This project will help bankers to predict the loan status of customers of a bank on the basis of previous data of the customers who have already taken loan from that bank.`
-    },
-   {
-      title: 'Cancer Detection',
-      duration: 'Sep 2020',
-      link: 'https://github.com/krsanu555/cancer-detection',
-      desc: `The objective of this project is to detect whether the specified person has cancer or not on the basis of human cells record.`
-    },
-   {
-      title: 'Predicting Customer Churn',
-      duration: 'Sep 2020',
-      link: 'https://github.com/krsanu555/predicting_customer_churn',
-      desc: `This project will help telecommunication company to predict when its customers will leave for a competitor, so that they can take some action to retain the customers.`
-    },
-    {
-      title: 'Recommendation Engine',
-      duration: 'Sep 2020',
-      link: 'https://github.com/krsanu555/movie-recommendation-engine',
-      desc: `The objective of this project is to recommend movies to the user based on favourite aspects of an item drawn from the previously watched movies and similarity of the other users that have similar preferences and opinions to this user.`
-    },
-    {
-      title: 'Opening New Bar in Delhi,India',
-      duration: 'July- Aug 2020',
-      link: 'https://github.com/krsanu555/Coursera_Capstone',
-      desc: `A Data Science Project which aims at helping project developers in recommending the best place to open bar in Delhi,India.`
-    },
-  ],
+    }
+  ],*/
   experiences: [
     {
       organization: 'Capgemini',
@@ -143,15 +97,7 @@ const profileData = {
   events: [
     {
       title: 'certifications',
-      body: [
-	  {
-          desc: `<strong>IBM Data Science Professional Certificate</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/specialization/certificate/SLENGR7SW2NC'>https://goo.gl/RZXcVr</a>)`,
-          date: 'Sep 2020'
-        },
-	  {
-          desc: `<strong>Applied Data Science Specialization</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/specialization/certificate/WREG2ZJBGW2D'>https://goo.gl/DSRcVr</a>)`,
-          date: 'Aug 2020'
-        },	 
+      body: [	 	 
         {
           desc: `<strong>Python</strong>, certified by <strong>Hackerrank</strong>. (View Certificate: <a target='_blank' href='https://www.hackerrank.com/certificates/324ec622f4d7'>https://goo.gl/X3HEdR</a>)`,
           date: 'July 2020'
@@ -164,12 +110,8 @@ const profileData = {
     },
     {
       title: 'Workshops',
-      body: [        
-        {
-          desc: `<strong>Data Engineering on Google Cloud Platform</strong> by <strong> Google</strong>`,
-          date: 'Aug 2020'
-        },
-	{
+      body: [      
+       {
           desc: `<strong>AWS Builders Online Series</strong> by <strong>AWS</strong>. (<a target='_blank' href='https://tinyurl.com/y3spk6mx'>https://goo.gl/ZDVyTr</a>)`,
           date: 'Aug 2020'
         }
