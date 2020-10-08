@@ -55,14 +55,16 @@ const profileData = {
       topics: ['.Net', 'Angular','Django']
     }
   ],
-  /*projects: [
+  projects: [
     {
-      title: 'Drug Prescription',
-      duration: 'Sep 2020',
-      link: 'https://github.com/krsanu555/drug-prescription',
-      desc: `The objective of this project is to help doctors to find out which drug might be appropriate for a future patient with the same illness based on factors such as Age, Sex, Blood Pressure, and Cholesterol of patients.`
+      title: 'Authentication and Authorization Using JWT in Angular and .Net Web API',
+      duration: 'Aug 2019',
+      link: 'https://github.com/krsanu555/authentication-and-authorization-in-angular',
+      desc: `In this Project I have done authentication and authorization using JWT where I have used Angular 8 in front end and Asp.Net Web API in backend. Here Server 
+           will create JWT token after authenticating users for the first time and send this token back to client side as response which will be stored in local storage of the 
+          browser.After then in each request from client,this token will be send automatically in header of that request which will be verified at the server before processing request.`
     }
-  ],*/
+  ],
   experiences: [
     {
       organization: 'Capgemini',
@@ -70,11 +72,11 @@ const profileData = {
       desc: `Sr Software Engineer`,
       date: 'Nov 2018 - Present',
       details: [
-        `Contributed in the development of an application of client in <strong>Health Care domain</strong> by converting the existing .Net mvc architecture web 
-         application into separate front-end client and back-end servers by using <strong>Angular</strong> and <strong>Django Rest Framework.</strong>`,        
+        `Contributed in the development of an application of client in <strong>Manufacturing domain</strong> by using <strong>Angular</strong> and <strong>Django Rest Framework.</strong>`, 
+	`Removing Data Access Layer from .NET MVC Web Application and incorporating that layer into ASP.Net Web APIs.`,
         `Worked on Enhancement tasks for many old .Net applications includes creating and securing build & config profiles for different environments 
          i.e. Development,QA and Production.`,
-	`Secured APIs using AD Groups and made it accessible only through Client Network.`,
+	`Secured ASP.NET Web APIs using AD Groups and made it accessible only through Client Network.`,
 	`Optimised method for generating report in Excel format through database restructuring and some code changes for the associated application by 80%.`,
 	`Worked on making one existing application more user friendly.`
       ]
