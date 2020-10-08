@@ -70,43 +70,49 @@ const profileData = {
       title: 'Drug Prescription',
       duration: 'Sep 2020',
       link: 'https://github.com/krsanu555/drug-prescription',
-      desc: `The objective of this project is to help doctors to find out which drug might be appropriate for a future patient with the same illness based on factors such as Age, Sex, Blood Pressure, and Cholesterol of patients.`
+      desc: `The objective of this project is to help doctors to find out which drug might be appropriate for a future patient with the same illness based on patient data
+             such as Age, Sex, Blood Pressure, and Cholesterol of patients. Used Decision Tree Classifier to achieve this.`
     },
    {
       title: 'House Price Prediction',
       duration: 'Sep 2020',
       link: 'https://github.com/krsanu555/house-price-predictor',
-      desc: `The aim of this project is to determine the price of the house based on housing conditions.`
+      desc: `The dataset contains house sale prices for King County,USA which includes Seattle. It includes homes sold between May 2014 and May 2015. Prepared a linear 
+             regression model to predict the price of house based on the data related to housing conditions. Also used GradientBoostingRegressor for better accuracy of the model.`
     },
-   {
+   /*{
       title: 'Predicting Loan Status',
       duration: 'Sep 2020',
       link: 'https://github.com/krsanu555/analyzing-and-predicting-loan-case',
       desc: `This project will help bankers to predict the loan status of customers of a bank on the basis of previous data of the customers who have already taken loan from that bank.`
-    },
+    },*/
    {
       title: 'Cancer Detection',
       duration: 'Sep 2020',
       link: 'https://github.com/krsanu555/cancer-detection',
-      desc: `The objective of this project is to detect whether the specified person has cancer or not on the basis of human cells record.`
+      desc: `The objective of this project is to detect whether the specified person has cancer or not on the basis of human cells record.We have used SVM machine learning
+            classification algorithm to classify cells to whether the samples are benign or malignant.`
     },
-   {
+  /* {
       title: 'Predicting Customer Churn',
       duration: 'Sep 2020',
       link: 'https://github.com/krsanu555/predicting_customer_churn',
       desc: `This project will help telecommunication company to predict when its customers will leave for a competitor, so that they can take some action to retain the customers.`
-    },
+    },*/
     {
       title: 'Recommendation Engine',
       duration: 'Sep 2020',
       link: 'https://github.com/krsanu555/movie-recommendation-engine',
-      desc: `The objective of this project is to recommend movies to the user based on favourite aspects of an item drawn from the previously watched movies and similarity of the other users that have similar preferences and opinions to this user.`
+      desc: `The objective of this project is to recommend movies to the user based on favourite aspects of an item drawn from the previously watched movies and similarity of the 
+             other users that have similar preferences and opinions to this user. In this project we have used Content Based and Collaborative filtering approach.`
     },
     {
       title: 'Opening New Bar in Delhi,India',
       duration: 'July- Aug 2020',
       link: 'https://github.com/krsanu555/Coursera_Capstone',
-      desc: `A Data Science Project which aims at helping project developers in recommending the best place to open bar in Delhi,India.`
+      desc: `The objective of this project is to help project developers in selecting the best locations in Delhi to open a new bar. In this project, we have used Web scraping 
+             techniques to extract neighborhoods data from Wikipedia,geopy package to get geographical co-ordinates, foursquare api to get venues data, folium library to 
+             visualize on map,K-means clustering to cluster those neighborhoods and find the best cluster.`
     },
   ],
   experiences: [
