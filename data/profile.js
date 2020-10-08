@@ -77,8 +77,8 @@ const profileData = {
       title: 'House Price Prediction',
       duration: 'Sep 2020',
       link: 'https://github.com/krsanu555/house-price-predictor',
-      desc: `The dataset contains house sale prices for King County,USA which includes Seattle. It includes homes sold between May 2014 and May 2015. Prepared a linear 
-             regression model to predict the price of house based on the data related to housing conditions. Also used GradientBoostingRegressor for better accuracy of the model.`
+      desc: `The dataset contains house sale prices for King County,USA which includes Seattle. It includes homes sold between May 2014 and May 2015. Prepared a Linear 
+             Regression model to predict the price of house based on the data related to housing conditions. Also used GradientBoostingRegressor for better accuracy of the model.`
     },
    /*{
       title: 'Predicting Loan Status',
@@ -104,7 +104,7 @@ const profileData = {
       duration: 'Sep 2020',
       link: 'https://github.com/krsanu555/movie-recommendation-engine',
       desc: `The objective of this project is to recommend movies to the user based on favourite aspects of an item drawn from the previously watched movies and similarity of the 
-             other users that have similar preferences and opinions to this user. In this project we have used Content Based and Collaborative filtering approach.`
+             other users that have similar preferences and opinions to this user. In this project we have used Content Based and Collaborative Filtering approach.`
     },
     {
       title: 'Opening New Bar in Delhi,India',
@@ -112,7 +112,7 @@ const profileData = {
       link: 'https://github.com/krsanu555/Coursera_Capstone',
       desc: `The objective of this project is to help project developers in selecting the best locations in Delhi to open a new bar. In this project, we have used Web scraping 
              techniques to extract neighborhoods data from Wikipedia,geopy package to get geographical co-ordinates, foursquare api to get venues data, folium library to 
-             visualize on map,K-means clustering to cluster those neighborhoods and find the best cluster.`
+             visualize on map,K-means Clustering to cluster those neighborhoods and find the best cluster.`
     },
   ],
   experiences: [
