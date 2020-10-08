@@ -114,6 +114,12 @@ const profileData = {
              techniques to extract neighborhoods data from Wikipedia,geopy package to get geographical co-ordinates, foursquare api to get venues data, folium library to 
              visualize on map,K-means Clustering to cluster those neighborhoods and find the best cluster.`
     },
+   {
+      title: 'POI Identifier of Enron Dataset',
+      duration: 'June 2020',
+      link: 'https://github.com/krsanu555/Intro-to-MachineLearning-Udacity-FinalProject',
+      desc: `In this project,We played detective, and put our machine learning skills to use by building an algorithm to identify Enron Employees who may have committed fraud based on the public Enron financial and email dataset.`
+    }
   ],
   experiences: [
     {
@@ -122,8 +128,8 @@ const profileData = {
       desc: `Sr Software Engineer`,
       date: 'Nov 2018 - Present',
       details: [
-        `Contributed in the development of an application of client in <strong>Health Care domain</strong> by converting the existing .Net MVC architecture web 
-         application into separate front-end client and back-end servers by using <strong>ASP.Net Web API.</strong>`
+        `Contributed in the development of an application of client in Manufacturing domain by using Angular and Django Rest Framework.`,
+        `Removed Data Access Layer from .NET MVC Web Application and incorporating that layer into ASP.Net Web APIs.`
       ]
     },
     {
