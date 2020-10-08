@@ -138,8 +138,11 @@ const profileData = {
       desc: `<strong>Full-Stack Developer intern</strong> at  <a target='_blank' href='https://www.wildnettechnologies.com/'> <strong>Wildnet Technology </strong> </a> (<a target='_blank' href='http://ep3dev.azurewebsites.net/'>Project Link</a>)`,
       date: 'Jun 2018 - Oct 2018',
       details: [
-        `Designed and developed a <strong>E-Commerce Web Application</strong> using <strong>ASP.Net MVC </strong>.
-         This application includes functionality related to different roles i.e. Supplier,Producer, Admin and End User.`
+        `Designed and developed a E-Commerce Web Application using ASP.Net MVC </strong>.
+         This application includes functionality related to different roles i.e. Supplier,Producer, Admin and End User.`,
+	 `Modified the <strong>Multi-level Menu</strong> for different category of products using <strong>Jquery</strong>, <strong>Ajax</strong> and 
+        <strong>Asp.net</strong>.`,
+	`Worked on Payment Gateway Integration for this app.`
       ]
     }
   ],
