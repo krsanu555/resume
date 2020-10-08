@@ -129,7 +129,7 @@ const profileData = {
       date: 'Nov 2018 - Present',
       details: [
         `Contributed in the development of an application of client in Manufacturing domain by using Angular and Django Rest Framework.`,
-        `Removed Data Access Layer from .NET MVC Web Application and incorporating that layer into ASP.Net Web APIs.`
+        `Removed Data Access Layers from .NET MVC Web Application and incorporating those layers into ASP.Net Web APIs.`
       ]
     },
     {
