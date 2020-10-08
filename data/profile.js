@@ -13,10 +13,10 @@ const profileData = {
     }
   },
   links: [
-    { title: 'Portfolio', src: 'https://krsanu555.github.io/' },
+   // { title: 'Portfolio', src: 'https://krsanu555.github.io/' },
     { title: 'Github', src: 'https://github.com/krsanu555' },
     { title: 'LinkedIn', src: 'https://www.linkedin.com/in/krsanu555' },
-    { title: 'Twitter', src: 'https://twitter.com/krsanu555' },
+    //{ title: 'Twitter', src: 'https://twitter.com/krsanu555' },
   ],
   education: [
     {
