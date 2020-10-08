@@ -73,7 +73,7 @@ const profileData = {
       date: 'Nov 2018 - Present',
       details: [
         `Contributed in the development of an application of client in Manufacturing domain by using <strong>Angular</strong> and <strong>Django Rest Framework</strong>.`, 
-	`Removing Data Access Layer from .NET MVC Web Application and incorporating that layer into <strong>ASP.Net Web APIs</strong>.`,
+	`Removed Data Access Layers from .NET MVC Web Application and incorporating those layers into <strong>ASP.Net Web APIs</strong>.`,
         `Worked on Enhancement tasks for many old .Net applications includes creating and securing build & config profiles for different environments 
          i.e. Development,QA and Production.`,
 	`Secured ASP.NET Web APIs using AD Groups and made it accessible only through Client Network.`,
