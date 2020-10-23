@@ -16,7 +16,7 @@ const profileData = {
    // { title: 'Portfolio', src: 'https://krsanu555.github.io/' },
     { title: 'Github', src: 'https://github.com/krsanu555' },
     { title: 'LinkedIn', src: 'https://www.linkedin.com/in/krsanu555' },
-    //{ title: 'Twitter', src: 'https://twitter.com/krsanu555' },
+    { title: 'Medium', src: 'https://medium.com/@krsanu555' },
   ],
   education: [
     {
@@ -66,6 +66,13 @@ const profileData = {
     }*/
   ],
   projects: [
+      {
+      title: 'Face Recognition using OpenCV and Deep Learning',
+      duration: 'Oct 2020',
+      link: 'https://github.com/krsanu555/face-recognition',
+      desc: `In this project,We have used OpenCV for face detection and Deep Learning <a href='https://arxiv.org/pdf/1503.03832.pdf'>FaceNet<a> model for face recognition. We have implemented
+            this system for identifying faces in images as well as in live video stream.`
+    },
     {
       title: 'Drug Prescription',
       duration: 'Sep 2020',
