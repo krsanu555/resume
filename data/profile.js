@@ -58,7 +58,7 @@ const profileData = {
    {
       graph: 'false',
       category: 'DEV Tools',
-      topics: ['Visual Studio', 'VS Code','Pycharm']
+      topics: ['Visual Studio', 'VS Code','Pycharm','Git','Postman']
     }
   ],
   projects: [
