@@ -54,6 +54,11 @@ const profileData = {
       graph: 'false',
       category: 'Frameworks / Libraries',
       topics: ['.Net', 'Angular','Django']
+    },
+   {
+      graph: 'false',
+      category: 'DEV Tools',
+      topics: ['Visual Studio', 'VS Code','Pycharm']
     }
   ],
   projects: [
