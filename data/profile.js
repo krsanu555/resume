@@ -79,16 +79,18 @@ const profileData = {
       date: 'Nov 2018 - Present',
       details: [
         `Contributed in the development of an application of client in Manufacturing domain where we have used <strong>Angular</strong> in the front-end,
-         <strong>Django Rest Framework</strong> in the backend and <strong>MySQL</strong> for database.`, 
-	`Removed Data Access Layers from .NET MVC Web Application and incorporating those layers into <strong>ASP.Net Web APIs</strong>.`,
+         <strong>Django Rest Framework</strong> in the backend and <strong>MySQL</strong> for database.`,
+	`Created <strong> ASP.NET Web APIs </strong> from scratch and incorporated Data Access layers removed from Web Application.Hence we have converted that
+         web application into a client server application.`,
+	`Secured ASP.NET Web APIs using AD Groups and made it accessible only through Client Network.`,
         `Worked on Enhancement tasks for many old .Net applications includes creating and securing build & config profiles for different environments 
          i.e. Development,QA and Production.`,
-	`Secured ASP.NET Web APIs using AD Groups and made it accessible only through Client Network.`,
+	`Resolved more than 50 bugs/issues in old .Net applications of client.`,	
 	`Worked on report generation from database in Excel Format.`,
-	`Optimised method for generating report in Excel format through database restructuring and some code changes for the associated application by 40%.`,
-	`Worked on making one existing application more user friendly.`,
-	`Worked on multiple projects in same client account that includes <strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong>.`,
-	`Resolved more than 50 bugs/issues in old applications of client.`
+	`Optimised one method for generating report in Excel format through database restructuring and some code changes for the associated application by 40%.`,
+	`Worked on making one existing .Net mobile responsive application more user friendly.`,	
+	`Worked on multiple applications of same client that includes <strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong>.`
+	`Worked in <strong>agile environment</strong> and used <strong>Azure Devops</strong> for deploying software.`
       ]
     },
     {
