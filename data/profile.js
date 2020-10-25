@@ -89,7 +89,7 @@ const profileData = {
 	`Worked on report generation from database in Excel Format.`,
 	`Optimised one method for generating report in Excel format through database restructuring and some code changes for the associated application by 40%.`,
 	`Worked on making one existing .Net mobile responsive application more user friendly.`,	
-	`Worked on multiple applications of same client that includes <strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong>.`
+	`Worked on multiple applications of same client that includes <strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong>.`,
 	`Worked in <strong>agile environment</strong> and used <strong>Azure Devops</strong> for deploying software.`
       ]
     },
