@@ -17,6 +17,7 @@ const profileData = {
     { title: 'Github', src: 'https://github.com/krsanu555' },
     { title: 'LinkedIn', src: 'https://www.linkedin.com/in/krsanu555' },
     { title: 'Twitter', src: 'https://twitter.com/krsanu555' },
+    { title: 'Medium', src: 'https://medium.com/@krsanu555' }
   ],
   education: [
     {
@@ -72,13 +73,17 @@ const profileData = {
       desc: `Sr Software Engineer`,
       date: 'Nov 2018 - Present',
       details: [
-        `Contributed in the development of an application of client in Manufacturing domain by using <strong>Angular</strong> and <strong>Django Rest Framework</strong>.`, 
+        `Contributed in the development of an application of client in Manufacturing domain where we have used <strong>Angular</strong> in the front-end,
+         <strong>Django Rest Framework</strong> in the backend and <strong>MySQL</strong> for database.`, 
 	`Removed Data Access Layers from .NET MVC Web Application and incorporating those layers into <strong>ASP.Net Web APIs</strong>.`,
         `Worked on Enhancement tasks for many old .Net applications includes creating and securing build & config profiles for different environments 
          i.e. Development,QA and Production.`,
 	`Secured ASP.NET Web APIs using AD Groups and made it accessible only through Client Network.`,
-	`Optimised method for generating report in Excel format through database restructuring and some code changes for the associated application by 80%.`,
-	`Worked on making one existing application more user friendly.`
+	`Worked on report generation from database in Excel Format.`,
+	`Optimised method for generating report in Excel format through database restructuring and some code changes for the associated application by 40%.`,
+	`Worked on making one existing application more user friendly.`,
+	`Worked on multiple projects in same client account that includes <strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong>.`,
+	`Resolved more than 50 bugs/issues in old applications of client.`
       ]
     },
     {
@@ -91,7 +96,7 @@ const profileData = {
          This application includes functionality related to different roles i.e. Supplier,Producer, Admin and End User.`,
 
         `Modified the <strong>Multi-level Menu</strong> for different category of products using <strong>Jquery</strong>, <strong>Ajax</strong> and 
-        <strong>Asp.net</strong>.`,
+        <strong>Asp.net MVC</strong>.`,
 	`Worked on Payment Gateway Integration for this app.`
       ]
     }
@@ -116,6 +121,10 @@ const profileData = {
        {
           desc: `<strong>AWS Builders Online Series</strong> by <strong>AWS</strong>. (<a target='_blank' href='https://tinyurl.com/y3spk6mx'>https://goo.gl/ZDVyTr</a>)`,
           date: 'Aug 2020'
+        },
+	{
+          desc: `<strong>AWS Modern Application Online Series</strong> by <strong>AWS</strong>. (<a target='_blank' href='https://tinyurl.com/y552bamh'>https://goo.gl/ZDVyTr</a>)`,
+          date: 'Oct 2020'
         }
       ]
     },
