@@ -78,17 +78,17 @@ const profileData = {
       desc: `Sr Software Engineer`,
       date: 'Nov 2018 - Present',
       details: [
-        `Contributed in the development of an application of client in Manufacturing domain where we have used <strong>Angular</strong> in the front-end,
+        `Contributed in the development of an application of a client in Manufacturing domain where we have used <strong>Angular</strong> in the front-end,
          <strong>Django Rest Framework</strong> in the backend and <strong>MySQL</strong> for database.`,
 	`Created <strong> ASP.NET Web APIs </strong> from scratch and incorporated Data Access layers removed from Web Application.Hence we have converted that
          web application into a client server application.`,
-	`Secured ASP.NET Web APIs using AD Groups and made it accessible only through Client Network.`,
-        `Worked on Enhancement tasks for many old .Net applications includes creating and securing build & config profiles for different environments 
+	`Secured <strong>ASP.NET Web APIs</strong> using AD Groups and made it accessible only through Client Network.`,
+        `Worked on <strong>Enhancement</strong> tasks for many old .Net applications includes creating and securing build & config profiles for different environments 
          i.e. Development,QA and Production.`,
-	`Resolved more than 50 bugs/issues in old .Net applications of client.`,	
-	`Worked on report generation from database in Excel Format.`,
-	`Optimised one method for generating report in Excel format through database restructuring and some code changes for the associated application by 40%.`,
-	`Worked on making one existing .Net mobile responsive application more user friendly.`,	
+	`Resolved more than <strong>50 bugs/issues</strong> in old .Net applications of client.`,	
+	`Worked on <strong>report generation</strong> from database in Excel Format.`,
+	`<strong>Optimized</strong> one method for generating report in Excel format through database restructuring and some code changes for the associated application by <strong>40%</strong>.`,
+	`Worked on making one existing .Net <strong>mobile responsive</strong> application more <strong>user friendly</strong>.`,	
 	`Worked on multiple applications of same client that includes <strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong>.`,
 	`Worked in <strong>agile environment</strong> and used <strong>Azure Devops</strong> for deploying software.`
       ]
