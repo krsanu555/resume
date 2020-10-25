@@ -123,7 +123,7 @@ const profileData = {
           date: 'Aug 2020'
         },
 	{
-          desc: `<strong>AWS Modern Application Online Series</strong> by <strong>AWS</strong>. (<a target='_blank' href='https://tinyurl.com/y552bamh'>https://goo.gl/ZDVyTr</a>)`,
+          desc: `<strong>AWS Modern Application Online Series</strong> by <strong>AWS</strong>. (<a target='_blank' href='https://tinyurl.com/y552bamh'>https://goo.gl/XTvYu</a>)`,
           date: 'Oct 2020'
         }
       ]
