@@ -43,7 +43,7 @@ const profileData = {
     {
       graph: 'false',
       category: 'Programming Languages',
-      topics: ['Python','C#','JavaScript']
+      topics: ['Python','C#','Java','JavaScript']
     },
     {
       graph: 'false',
