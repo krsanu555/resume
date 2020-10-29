@@ -80,9 +80,9 @@ const profileData = {
       details: [
         `Contributed in the development of an application where we have used <strong>Angular</strong> in the front-end,
          <strong>Django Rest Framework</strong> in the backend and <strong>MySQL</strong> for database.`,
-	`Created <strong> ASP.NET Web APIs </strong> from scratch and incorporated Data Access layers removed from Web Application.Hence we have converted that
+	`Created RESTful <strong> ASP.NET Web APIs </strong> from scratch and incorporated Data Access layers removed from Web Application.Hence we have converted that
          web application into a <strong>client server</strong> application.`,
-	`Secured <strong>ASP.NET Web APIs</strong> using AD Groups and made it accessible only through Client Network.`,
+	`Authentication & Authorization of <strong>ASP.NET Web APIs</strong> using AD Groups and made it accessible only through Client Network.`,
         `Worked on Enhancement tasks for many old .Net applications includes <strong>creating</strong> and <strong>securing</strong> build & config profiles for 
          different application <strong>environments</strong> i.e. Development,QA and Production.`,		
 	`Worked on <strong>report</strong> generation from database in Excel Format.`,
