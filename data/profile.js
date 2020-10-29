@@ -53,7 +53,7 @@ const profileData = {
     {
       graph: 'false',
       category: 'Frameworks / Libraries',
-      topics: ['.Net', 'Angular','Django']
+      topics: ['.Net Standard','.Net Core', 'Angular','Django']
     },
    {
       graph: 'false',
