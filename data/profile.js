@@ -90,7 +90,7 @@ const profileData = {
 	`Worked on one .Net <strong>mobile</strong> responsive application to make more <strong>user friendly</strong>.`,
 	`Resolved more than <strong>50 bugs/issues</strong> in old .Net applications of client.`,
 	`Worked on multiple applications of same client that uses <strong>C#</strong> as programming language,<strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong> as web 
-         technology and <strong>SQL Server</strong> as database.`,
+         technology and <strong>MS SQL Server</strong> as database.`,
 	`Worked on both <strong>ADO.Net</strong> And <strong>Entity Framework</strong> approach of .Net Framework.`,
 	`Worked in <strong>Agile environment</strong> and used <strong>Azure Devops</strong> for deploying software.`
       ]
