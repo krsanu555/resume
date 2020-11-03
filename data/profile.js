@@ -93,7 +93,7 @@ const profileData = {
          technology and <strong>MS SQL Server</strong> as database.`,
 	`Worked on both <strong>ADO.Net</strong> And <strong>Entity Framework</strong> approach of .Net Framework.`,
 	`Worked in <strong>Agile environment</strong> and used <strong>Azure Devops</strong> for deploying software.`,
-	`Basic Knowledge of NUnit unit-testing framework and .Net Core WebAPI.`
+	`Basic Knowledge of <strong>NUnit</strong> unit-testing framework and <strong>.Net Core</strong> Web API.`
       ]
     },
     {
