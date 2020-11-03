@@ -92,7 +92,8 @@ const profileData = {
 	`Worked on multiple applications of same client that uses <strong>C#</strong> as programming language,<strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong> as web 
          technology and <strong>MS SQL Server</strong> as database.`,
 	`Worked on both <strong>ADO.Net</strong> And <strong>Entity Framework</strong> approach of .Net Framework.`,
-	`Worked in <strong>Agile environment</strong> and used <strong>Azure Devops</strong> for deploying software.`
+	`Worked in <strong>Agile environment</strong> and used <strong>Azure Devops</strong> for deploying software.`,
+	`Basic Knowledge of NUnit unit-testing framework and .Net Core WebAPI.`
       ]
     },
     {
