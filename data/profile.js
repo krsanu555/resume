@@ -81,7 +81,7 @@ const profileData = {
         `Worked on Authentication & Authorization of <strong>ASP.NET Web APIs</strong> using AD Groups and made it accessible only through Client Network.`,
 	`Created RESTful <strong> ASP.NET Web APIs </strong> from scratch and incorporated Data Access layers removed from Web Application in it.Hence we have converted that
          web application into a <strong>client server</strong> application.`,	
-        `<strong>Created</strong> and <strong>Secured</strong> build & config profiles for different <strong>server</strong> environments i.e. Development,QA and 
+        `Created and Secured <strong>build & config</strong> profiles for different <strong>server</strong> environments i.e. Development,QA and 
          Production for many .Net applications.`,
 	`Added new functionalities & modified existing functionalities in many <strong>.Net</strong> Applications as a part of enhancement tasks as per the client's expectations.`,
 	`Worked on multiple applications of same client that uses <strong>C#</strong> as programming language,<strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong> as web 
