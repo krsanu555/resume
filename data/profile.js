@@ -89,7 +89,7 @@ const profileData = {
 	`Worked on <strong>report</strong> generation task from database in Excel Format.`,
 	`<strong>Optimized</strong> one method for generating report in Excel format through database restructuring and some code changes for the associated application by <strong>40%</strong>.`,
 	`Made one .Net <strong>mobile</strong> responsive application more <strong>user friendly</strong>.`,
-	`Resolved more than <strong>50 bugs/issues</strong> in old .Net applications of client.`,
+	`Resolved more than <strong>50 bugs/issues</strong> in existing .Net applications of client.`,
 	`Worked on multiple applications of same client that uses <strong>C#</strong> as programming language,<strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong> as web 
          technology and <strong>MS SQL Server</strong> as database.`,
 	`Worked on both <strong>ADO.Net</strong> And <strong>Entity Framework</strong> approach of .Net Framework.`,
