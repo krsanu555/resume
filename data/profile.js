@@ -80,7 +80,7 @@ const profileData = {
       details: [
         `Contributed in the development of an application where we have used <strong>Angular</strong> in the front-end,
          <strong>Python</strong> with <strong>Django Rest Framework</strong> in the backend and <strong>MySQL</strong> for database.`,
-	`Created RESTful <strong> ASP.NET Web APIs </strong> from scratch and incorporated Data Access layers removed from Web Application.Hence we have converted that
+	`Created RESTful <strong> ASP.NET Web APIs </strong> from scratch and incorporated Data Access layers removed from Web Application in it.Hence we have converted that
          web application into a <strong>client server</strong> application.`,
 	`Worked on Authentication & Authorization of <strong>ASP.NET Web APIs</strong> using AD Groups and made it accessible only through Client Network.`,
         `<strong>Created</strong> and <strong>Secured</strong> build & config profiles for different <strong>environments</strong> i.e. Development,QA and 
