@@ -81,7 +81,7 @@ const profileData = {
         `Worked on Authentication & Authorization of <strong>ASP.NET Web APIs</strong> using AD Groups and made it accessible only through Client Network.`,
 	`Created RESTful <strong> ASP.NET Web APIs </strong> from scratch and incorporated Data Access layers removed from Web Application in it.Hence we have converted that
          web application into a <strong>client server</strong> application.`,	
-        `<strong>Created</strong> and <strong>Secured</strong> build & config profiles for different <strong>environments</strong> i.e. Development,QA and 
+        `<strong>Created</strong> and <strong>Secured</strong> build & config profiles for different <strong>server</strong> environments i.e. Development,QA and 
          Production for many .Net applications.`,
 	`Added new functionalities & modified existing functionalities in many <strong>.Net</strong> Applications as a part of enhancement tasks as per the client's expectations.`,
 	`Worked on multiple applications of same client that uses <strong>C#</strong> as programming language,<strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong> as web 
@@ -90,7 +90,7 @@ const profileData = {
 	`Resolved more than <strong>50 bugs/issues</strong> in existing .Net applications of client.`,
 	`Worked on <strong>report</strong> generation task from database in Excel Format.`,
 	`<strong>Optimized</strong> one method for generating report in Excel format through database restructuring and some code changes for the associated application by <strong>40%</strong>.`,
-	`Worked on one application to make more user friendly through use of CSS & Bootstrap.`,	
+	`Worked on one application to make more <strong>user friendly</strong> through use of CSS & Bootstrap.`,	
 	`Contributed in the development of an application where we have used <strong>Angular</strong> in the front-end,
          <strong>Python</strong> with <strong>Django Rest Framework</strong> in the backend and <strong>MySQL</strong> for database.`,
 	`Worked in <strong>Agile environment</strong> and used <strong>Azure Devops</strong> CI/CD pipeline for deploying software.`,
