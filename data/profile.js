@@ -48,7 +48,7 @@ const profileData = {
     {
       graph: 'false',
       category: 'Databases',
-      topics: ['ElasticSearch','MySQL', 'SQL']
+      topics: ['MySQL', 'SQL']
     },
     {
       graph: 'false',
