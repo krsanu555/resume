@@ -84,7 +84,7 @@ const profileData = {
         `Created and Secured <strong>build & config</strong> profiles for different <strong>server</strong> environments i.e. Development,QA and 
          Production for many .Net applications.`,	      
 	`Worked on enhancement tasks as per the client's expectations in multiple applications that uses <strong>C#</strong> as programming language,<strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong> as web 
-         technology and <strong>MS SQL Server</strong> as database.Resolved more than <strong>50 bugs/issues</strong> in existing applications.Worked on one application to make more <strong>user friendly</strong> through use of CSS & Bootstrap.`,
+         technology,ADO.Net,Entity Framework for data access operations and <strong>MS SQL Server</strong> as database.Resolved more than <strong>50 bugs/issues</strong> in existing applications.Worked on one application to make more <strong>user friendly</strong> through use of CSS & Bootstrap.`,
 	`Worked on both <strong>ADO.Net</strong> And <strong>Entity Framework</strong> approach of .Net Framework.`,	
 	`Worked on <strong>report</strong> generation task and <strong>Optimized</strong> one method for generating report in Excel format 
          through database restructuring and some code changes for the associated application by <strong>40%</strong>.`,	
