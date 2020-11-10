@@ -84,10 +84,9 @@ const profileData = {
         `Created and Secured <strong>build & config</strong> profiles for different <strong>server</strong> environments i.e. Development,QA and 
          Production for many .Net applications.`,	      
 	`Worked on enhancement tasks as per the client's expectations in multiple applications that uses <strong>C#</strong> as programming language,<strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong> as web 
-         technology,ADO.Net,Entity Framework for data access operations and <strong>MS SQL Server</strong> as database.Resolved more than <strong>50 bugs/issues</strong> in existing applications.Worked on one application to make more <strong>user friendly</strong> through use of CSS & Bootstrap.`,
-	`Worked on both <strong>ADO.Net</strong> And <strong>Entity Framework</strong> approach of .Net Framework.`,	
-	`Worked on <strong>report</strong> generation task and <strong>Optimized</strong> one method for generating report in Excel format 
-         through database restructuring and some code changes for the associated application by <strong>40%</strong>.`,	
+         technology,<strong>ADO.Net</strong>,<strong>Entity Framework</strong> for data access operations and <strong>MS SQL Server</strong> as database.Resolved more than <strong>50 bugs/issues</strong> in existing applications.
+         Worked on one application to make more <strong>user friendly</strong> through use of CSS & Bootstrap.`,		
+	`<strong>Optimized</strong> one method for generating report in Excel format through database restructuring and some code changes for the associated application by <strong>40%</strong>.`,	
 	`Contributed in the development of an application where we have used <strong>Angular</strong> in the front-end,
          <strong>Python</strong> with <strong>Django Rest Framework</strong> in the backend and <strong>MySQL</strong> for database.`,
 	`Worked in <strong>Agile environment</strong> and used <strong>Azure Devops</strong> CI/CD pipeline for deploying software.Have Knowledge of <strong>NUnit</strong> unit-testing framework and <strong>.Net Core</strong> Web API.`
