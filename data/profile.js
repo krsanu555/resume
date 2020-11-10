@@ -78,7 +78,7 @@ const profileData = {
       desc: `Sr Software Engineer`,
       date: 'Nov 2018 - Present',
       details: [     
-	`Converted a simple web application into a client server application by creating RESTful ASP.NET Web APIs from scratch and incorporated Data Access layers 
+	`Converted a simple web application into a client server application by creating <strong>RESTful ASP.NET Web APIs</strong> from scratch and incorporated Data Access layers 
          removed from Web Application in it. Also Worked on Authentication & Authorization of <strong>ASP.NET Web APIs</strong> using AD Groups and made it accessible 
          only through Client Network.`,	
         `Created and Secured <strong>build & config</strong> profiles for different <strong>server</strong> environments i.e. Development,QA and 
