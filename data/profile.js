@@ -81,11 +81,11 @@ const profileData = {
 	`Converted a simple web application into a client server application by creating <strong>RESTful ASP.NET Web APIs</strong> following industry-standard design patterns and best coding practices and consuming these APIs endpoints in that existing 
          web application. Also Worked on Authentication & Authorization of <strong>ASP.NET Web APIs</strong> using AD Groups and made it accessible only through Client Network.`,	
         `Created and Secured <strong>build & config</strong> profiles for different <strong>deployment</strong> environments i.e. Development,QA and
-         Production for many .Net applications.`,	      
+         Production for many .Net applications.`,     
+        `<strong>Optimized</strong> one method for generating report in Excel format through database restructuring and some code changes for the associated application by <strong>40%</strong>.`,	
 	`Worked on enhancement tasks as per the client's expectations in multiple applications that uses <strong>C#</strong> as programming language,<strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong> as web 
          technology,<strong>ADO.Net</strong>,<strong>Entity Framework</strong> for data access operations and <strong>MS SQL Server</strong> as database. Resolved more than 
-         <strong>50 bugs/issues</strong> in existing applications.`,		
-	`<strong>Optimized</strong> one method for generating report in Excel format through database restructuring and some code changes for the associated application by <strong>40%</strong>.`,	
+         <strong>50 bugs/issues</strong> in existing applications.`,
 	`Contributed in the development of an application where we have used <strong>Angular</strong> in the front-end,
          <strong>Python</strong> with <strong>Django Rest Framework</strong> in the backend and <strong>MySQL</strong> for database.`,
 	`Worked in <strong>Agile environment</strong> and used <strong>Azure Devops</strong> CI/CD pipeline for deploying software.Have Knowledge of <strong>NUnit</strong> unit-testing framework and <strong>.Net Core</strong> Web API.`
