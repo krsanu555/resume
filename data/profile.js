@@ -78,7 +78,7 @@ const profileData = {
       desc: `Sr Software Engineer`,
       date: 'Nov 2018 - Present',
       details: [     
-	`Converted a simple web application into a client server application by creating <strong>RESTful ASP.NET Web APIs</strong> following industry-standard design patterns and best coding practices and consuming these APIs endpoints in that existing 
+	`Converted a MVC architecture web application into a client server application by creating <strong>RESTful ASP.NET Web APIs</strong> following industry-standard design patterns and best coding practices and consuming these APIs endpoints in that 
          web application. Also Worked on Authentication & Authorization of <strong>ASP.NET Web APIs</strong> using AD Groups and made it accessible only through Client Network.`,	
         `Created and Secured <strong>build & config</strong> profiles for different <strong>deployment</strong> environments i.e. Development,QA and
          Production for many .Net applications.`,     
