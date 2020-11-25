@@ -80,7 +80,7 @@ const profileData = {
       details: [     
 	`Converted a simple web application into a client server application by creating <strong>RESTful ASP.NET Web APIs</strong> following industry-standard design patterns and best coding practices and consuming these APIs endpoints in that existing 
          web application.Also Worked on Authentication & Authorization of <strong>ASP.NET Web APIs</strong> using AD Groups and made it accessible only through Client Network.`,	
-        `Created and Secured <strong>build & config</strong> profiles for different <strong>server</strong> environments i.e. Development,QA and
+        `Created and Secured <strong>build & config</strong> profiles for different <strong>deployment</strong> environments i.e. Development,QA and
          Production for many .Net applications.`,	      
 	`Worked on enhancement tasks as per the client's expectations in multiple applications that uses <strong>C#</strong> as programming language,<strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong> as web 
          technology,<strong>ADO.Net</strong>,<strong>Entity Framework</strong> for data access operations and <strong>MS SQL Server</strong> as database.Resolved more than 
