@@ -78,10 +78,9 @@ const profileData = {
       desc: `Sr Software Engineer`,
       date: 'Nov 2018 - Present',
       details: [     
-	`Converted a simple web application into a client server application by creating <strong>RESTful ASP.NET Web APIs</strong> from scratch and incorporated Data Access layers 
-         removed from Web Application in it. Also Worked on Authentication & Authorization of <strong>ASP.NET Web APIs</strong> using AD Groups and made it accessible 
-         only through Client Network.`,	
-        `Created and Secured <strong>build & config</strong> profiles for different <strong>server</strong> environments i.e. Development,QA and 
+	`Converted a simple web application into a client server application by creating <strong>RESTful ASP.NET Web APIs</strong> following industry-standard design patterns and best coding practices and consuming these APIs endpoints in that existing 
+         web application.Also Worked on Authentication & Authorization of <strong>ASP.NET Web APIs</strong> using AD Groups and made it accessible only through Client Network.`,	
+        `Created and Secured <strong>build & config</strong> profiles for different <strong>server</strong> environments i.e. Development,QA and
          Production for many .Net applications.`,	      
 	`Worked on enhancement tasks as per the client's expectations in multiple applications that uses <strong>C#</strong> as programming language,<strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong> as web 
          technology,<strong>ADO.Net</strong>,<strong>Entity Framework</strong> for data access operations and <strong>MS SQL Server</strong> as database.Resolved more than 
@@ -100,7 +99,6 @@ const profileData = {
       details: [
         `Designed and developed a <strong>E-Commerce Web Application</strong> using <strong>ASP.Net MVC </strong>.
          This application includes functionality related to different roles i.e. Supplier,Producer, Admin and End User.`,
-
         `Modified the <strong>Multi-level Menu</strong> for different category of products using <strong>Jquery</strong>, <strong>Ajax</strong> and 
         <strong>Asp.net MVC</strong>.`,
 	`Worked on Payment Gateway Integration for this app.`
