@@ -62,14 +62,33 @@ const profileData = {
     }
   ],
   projects: [
-    {
+   {
+      title: 'Neural Style Transfer: Deep Learning Applications',
+      duration: 'Nov 2020',
+      link: 'https://github.com/krsanu555/neural-style-transfer',
+      desc: `In this project, we have implemented neural style transfer Algorithm using <strong>VGG-19</strong>, a 19-layer version of the VGG network and <strong>TensorFlow</strong> Deep Learning Framework.`
+    },  
+	{
+      title: 'Face Recognition using OpenCV and Deep Learning',
+      duration: 'Oct 2020',
+      link: 'https://github.com/krsanu555/face-recognition',
+      desc: `In this project,We have used <strong>OpenCV</strong> for face detection and Deep Learning <strong>FaceNet</strong> model for face recognition. We have implemented
+            this system for identifying faces in images as well as in live video stream.`
+    },
+   {
+      title: 'Opening New Bar in Delhi,India',
+      duration: 'July- Aug 2020',
+      link: 'https://github.com/krsanu555/Coursera_Capstone',
+      desc: `The objective of this project is to help project developers in selecting the best locations in Delhi to open a new bar. In this project, we have used <strong>Web scraping </strong>
+             techniques to extract neighborhoods data from Wikipedia, <strong>geopy</strong> package to get geographical co-ordinates, foursquare api to get venues data, <strong>folium</strong> library to 
+             visualize on map, <strong>K-means Clustering</strong> to cluster those neighborhoods and find the best cluster.`
+    },
+	{
       title: 'Authentication and Authorization Using JWT in Angular and .Net Web API',
       duration: 'Aug 2019',
       link: 'https://github.com/krsanu555/authentication-and-authorization-in-angular',
-      desc: `In this Project I have done authentication and authorization using JWT where I have used Angular 8 in front end and Asp.Net Web API in backend. Here Server 
-           will create JWT token after authenticating users for the first time and send this token back to client side as response which will be stored in local storage of the 
-          browser.After then in each request from client,this token will be send automatically in header of that request which will be verified at the server before processing request.`
-    }
+      desc: `In this Project I have done authentication and authorization in client application using JWT where I have used Angular 8 in front end and Asp.Net Web API in backend.`}
+  
   ],
   experiences: [
     {
@@ -109,6 +128,10 @@ const profileData = {
     {
       title: 'certifications',
       body: [
+	      {
+          desc: `<strong>AI For Everyone</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/certificate/QS9VBRGBVC7Y'>https://goo.gl/XuvT3I</a>)`,
+          date: 'Nov 2020'
+        },
 	     {
           desc: `<strong>IBM Data Science Professional Certificate</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/specialization/certificate/SLENGR7SW2NC'>https://goo.gl/RZXcVr</a>)`,
           date: 'Sep 2020'
@@ -140,7 +163,7 @@ const profileData = {
         }
       ]
     },
-    {
+    /*{
       title: 'Extracurricular Activities',
       body: [
 	  {
@@ -157,6 +180,6 @@ const profileData = {
           date: 'Mar 2017'
         }        
       ]
-    }
+    }*/
   ]
 };
