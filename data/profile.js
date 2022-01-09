@@ -160,21 +160,26 @@ const profileData = {
     {
       title: 'certifications',
       body: [
+	   {
+          desc: `<strong>Microsoft Azure Data Fundamentals</strong>, certified by <strong>Microsoft</strong>. (View Certificate: <a target='_blank' href='https://www.credly.com/earner/earned/badge/49d49096-e5aa-4044-a165-1ff79057bf31'>https://goo.gl/ZSDFtR</a>)`,
+          date: 'JAN 2022'
+          },
 	  {
           desc: `<strong>IBM Data Science Professional Certificate</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/specialization/certificate/SLENGR7SW2NC'>https://goo.gl/RZXcVr</a>)`,
           date: 'Sep 2020'
-        },
+          },
 	  {
           desc: `<strong>Applied Data Science Specialization</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/specialization/certificate/WREG2ZJBGW2D'>https://goo.gl/DSRcVr</a>)`,
           date: 'Aug 2020'
-        },	 
-        {
+          },	 
+          {
           desc: `<strong>Python</strong>, certified by <strong>Hackerrank</strong>. (View Certificate: <a target='_blank' href='https://www.hackerrank.com/certificates/324ec622f4d7'>https://goo.gl/X3HEdR</a>)`,
           date: 'July 2020'
         }
+	
       ]
     },
-    {
+    /*{
       title: 'Workshops',
       body: [        
         {
@@ -204,6 +209,6 @@ const profileData = {
           date: 'Mar 2017'
         }        
       ]
-    }
+    }*/
   ]
 };
