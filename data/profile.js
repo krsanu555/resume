@@ -13,7 +13,7 @@ const profileData = {
     }
   },
   links: [
-   // { title: 'Portfolio', src: 'https://krsanu555.github.io/' },
+    { title: 'Portfolio', src: 'https://krsanu555.github.io/' },
     { title: 'Github', src: 'https://github.com/krsanu555' },
     { title: 'LinkedIn', src: 'https://www.linkedin.com/in/krsanu555' },
     { title: 'Medium', src: 'https://medium.com/@krsanu555' },
@@ -129,14 +129,30 @@ const profileData = {
     }
   ],
   experiences: [
+  {
+      organization: 'Siemens Healthineers',
+      title: `Software Engineer`,
+      desc: `Software Engineer`,
+      date: 'Apr 2021 - Present',
+      details: [
+        `Worked on developing and incorporating new features in HealthCare Product.`,
+        `Optimised product performance by reducing overall turn around time of case processing.`,
+	`Worked on ML algorithm integration in the app.`,
+	`Improved DICOM Structured Report and Result sent to PACS.`
+       ]
+    },
     {
       organization: 'Capgemini',
       title: `Sr Software Engineer`,
       desc: `Sr Software Engineer`,
-      date: 'Nov 2018 - Present',
+      date: 'Nov 2018 - Mar 2021',
       details: [
         `Contributed in the development of an application of client in Manufacturing domain by using Angular and Django Rest Framework.`,
-        `Removed Data Access Layers from .NET MVC Web Application and incorporated those layers into ASP.Net Web APIs.`
+        `Converted a MVC architecture web application into a client server application by creating RESTful ASP.NET Web APIs following industry-standard 
+	design patterns and best coding practices and consuming these APIs endpoints in that web application.`,
+	`Optimized one method for generating report in Excel format through database restructuring and some code changes for the associated application by 40%.`,
+	`Worked in Agile environment and used Azure Devops CI/CD pipeline for deploying software.`
+	      
       ]
     },
     {
