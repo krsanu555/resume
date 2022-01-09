@@ -135,7 +135,7 @@ const profileData = {
       desc: `Software Engineer`,
       date: 'Apr 2021 - Present',
       details: [
-        `Worked on developing and incorporating new features in HealthCare Product.`,
+        `Developed and incorporated new features in HealthCare Product.`,
         `Optimised product performance by reducing overall turn around time of case processing.`,
 	`Worked on ML algorithm integration in the app.`,
 	`Improved DICOM Structured Report and Result sent to PACS.`
