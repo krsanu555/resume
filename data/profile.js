@@ -162,7 +162,7 @@ const profileData = {
       body: [
 	   {
           desc: `<strong>Microsoft Azure Data Fundamentals</strong>, certified by <strong>Microsoft</strong>. (View Certificate: <a target='_blank' href='https://www.credly.com/earner/earned/badge/49d49096-e5aa-4044-a165-1ff79057bf31'>https://goo.gl/ZSDFtR</a>)`,
-          date: 'JAN 2022'
+          date: 'Jan 2022'
           },
 	  {
           desc: `<strong>IBM Data Science Professional Certificate</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/specialization/certificate/SLENGR7SW2NC'>https://goo.gl/RZXcVr</a>)`,
