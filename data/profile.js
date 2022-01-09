@@ -9,7 +9,7 @@ const profileData = {
     contact: {
       email: 'krsanurajput@outlook.com',
       phone: '+91-7017448771',
-      address: 'Mumbai, Maharashtra 400708'
+      address: 'Bangalore, Karnataka 560100'
     }
   },
   links: [
@@ -148,24 +148,11 @@ const profileData = {
       date: 'Nov 2018 - Mar 2021',
       details: [
         `Contributed in the development of an application of client in Manufacturing domain by using Angular and Django Rest Framework.`,
-        `Converted a MVC architecture web application into a client server application by creating RESTful ASP.NET Web APIs following industry-standard 
+        `Converted MVC architecture web application into a client server application by creating RESTful ASP.NET Web APIs following industry-standard 
 	design patterns and best coding practices and consuming these APIs endpoints in that web application.`,
 	`Optimized one method for generating report in Excel format through database restructuring and some code changes for the associated application by 40%.`,
 	`Worked in Agile environment and used Azure Devops CI/CD pipeline for deploying software.`
 	      
-      ]
-    },
-    {
-      organization: 'Wildnet Technologies',
-      title: 'Full-Stack Developer Intern',
-      desc: `<strong>Full-Stack Developer intern</strong> at  <a target='_blank' href='https://www.wildnettechnologies.com/'> <strong>Wildnet Technology </strong> </a> (<a target='_blank' href='http://ep3dev.azurewebsites.net/'>Project Link</a>)`,
-      date: 'Jun 2018 - Oct 2018',
-      details: [
-        `Designed and developed a E-Commerce Web Application using ASP.Net MVC </strong>.
-         This application includes functionality related to different roles i.e. Supplier,Producer, Admin and End User.`,
-	 `Modified the <strong>Multi-level Menu</strong> for different category of products using <strong>Jquery</strong>, <strong>Ajax</strong> and 
-        <strong>Asp.net</strong>.`,
-	`Worked on Payment Gateway Integration for this app.`
       ]
     }
   ],
