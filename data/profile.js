@@ -58,36 +58,51 @@ const profileData = {
    {
       graph: 'false',
       category: 'Tools/Technologies',
-      topics: ['Data Science', 'Data Analysis','Machine Learning','Git',"Microsoft Azure"]
+      topics: ['Data Science', 'Data Analysis','Machine Learning',"Microsoft Azure","Git","SQL"]
     }
   ],
   projects: [
-   {
+   /*{
       title: 'Neural Style Transfer: Deep Learning Applications',
       duration: 'Nov 2020',
       link: 'https://github.com/krsanu555/neural-style-transfer',
       desc: `In this project, we have implemented neural style transfer Algorithm using <strong>VGG-19</strong>, a 19-layer version of the VGG network and <strong>TensorFlow</strong> Deep Learning Framework.`
-    },  
-	{
+    },*/
+    {
       title: 'Face Recognition using OpenCV and Deep Learning',
       duration: 'Oct 2020',
       link: 'https://github.com/krsanu555/face-recognition',
       desc: `In this project,We have used <strong>OpenCV</strong> for face detection and Deep Learning <strong>FaceNet</strong> model for face recognition. We have implemented
             this system for identifying faces in images as well as in live video stream.`
     },
-   {
+    {
+      title: 'Cancer Detection',
+      duration: 'Sep 2020',
+      link: 'https://github.com/krsanu555/cancer-detection',
+      desc: `The objective of this project is to detect whether the specified person has cancer or not on the basis of human cells record.We have used SVM machine learning
+            classification algorithm to classify cells to whether the samples are benign or malignant.`
+    },
+    {
+      title: 'House Price Prediction',
+      duration: 'Sep 2020',
+      link: 'https://github.com/krsanu555/house-price-predictor',
+      desc: `The dataset contains house sale prices for King County,USA which includes Seattle. It includes homes sold between May 2014 and May 2015. Prepared a Linear 
+             Regression model to predict the price of house based on the data related to housing conditions. Also used GradientBoostingRegressor for better accuracy of the model.`
+    },
+    {
       title: 'Opening New Bar in Delhi,India',
       duration: 'July- Aug 2020',
       link: 'https://github.com/krsanu555/Coursera_Capstone',
       desc: `The objective of this project is to help project developers in selecting the best locations in Delhi to open a new bar. In this project, we have used <strong>Web scraping </strong>
              techniques to extract neighborhoods data from Wikipedia, <strong>geopy</strong> package to get geographical co-ordinates, foursquare api to get venues data, <strong>folium</strong> library to 
              visualize on map, <strong>K-means Clustering</strong> to cluster those neighborhoods and find the best cluster.`
-    },
- {
+    }
+    /*,{
       title: 'Authentication and Authorization Using JWT in Angular and .Net Web API',
       duration: 'Aug 2019',
       link: 'https://github.com/krsanu555/authentication-and-authorization-in-angular',
-      desc: `In this Project I have done authentication and authorization in client application using JWT where I have used Angular 8 in front end and Asp.Net Web API in backend.`}
+      desc: `In this Project I have done authentication and authorization in client application using JWT where I have used Angular 8 in front end and Asp.Net Web API in backend.`
+    }*/
   
   ],
   experiences: [
@@ -155,10 +170,10 @@ const profileData = {
           desc: `<strong>IBM Data Science Professional Certificate</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/specialization/certificate/SLENGR7SW2NC'>https://goo.gl/RZXcVr</a>)`,
           date: 'Sep 2020'
         },
-	  {
+	/*{
           desc: `<strong>Applied Data Science Specialization</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/specialization/certificate/WREG2ZJBGW2D'>https://goo.gl/DSRcVr</a>)`,
           date: 'Aug 2020'
-        },
+        },*/
         {
           desc: `<strong>Python</strong>, certified by <strong>Hackerrank</strong>. (View Certificate: <a target='_blank' href='https://www.hackerrank.com/certificates/324ec622f4d7'>https://goo.gl/X3HEdR</a>)`,
           date: 'July 2020'
