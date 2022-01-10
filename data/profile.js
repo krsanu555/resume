@@ -7,7 +7,7 @@ const profileData = {
     intro: `I am an innovative and passionate developer with a primary interest in <strong>Python</strong>
      and it's applications. Experienced in web applications development working in agile environment. Having good knowledge of software development life cycle`,
     contact: {
-      email: 'krsanurajput@outlook.com',
+      email: 'krsanu555@gmail.com',
       phone: '+91-7017448771',
       address: 'Bangalore, Karnataka 560100'
     }
