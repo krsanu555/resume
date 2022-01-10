@@ -58,7 +58,7 @@ const profileData = {
    {
       graph: 'false',
       category: 'Tools/Technologies',
-      topics: ['Data Science', 'Data Analysis','Machine Learning',"Microsoft Azure","Git","SQL"]
+      topics: ['Data Science', 'Data Analysis','Machine Learning',"Git","SQL","Microsoft Azure"]
     }
   ],
   projects: [
