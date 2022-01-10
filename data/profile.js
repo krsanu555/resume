@@ -110,7 +110,7 @@ const profileData = {
       date: 'Nov 2018 - Mar 2021',
       details: [     
 	`Converted MVC architecture web application into a client server application by creating <strong>RESTful ASP.NET Web APIs</strong> following industry-standard design patterns and best coding practices and consuming these APIs endpoints in that 
-         web application.`
+         web application.`,
 	 /*`Created and Secured <strong>build & config</strong> profiles for different <strong>deployment</strong> environments i.e. Development,QA and
          Production for many .Net applications.`, */    
         `<strong>Optimized</strong> one method for generating report in Excel format through database restructuring and some code changes for the associated application by <strong>40%</strong>.`,	
