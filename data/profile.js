@@ -79,15 +79,15 @@ const profileData = {
       title: 'Cancer Detection',
       duration: 'Sep 2020',
       link: 'https://github.com/krsanu555/cancer-detection',
-      desc: `The objective of this project is to detect whether the specified person has cancer or not on the basis of human cells record.We have used SVM machine learning
-            classification algorithm to classify cells to whether the samples are benign or malignant.`
+      desc: `The objective of this project is to detect whether the specified person has cancer or not on the basis of human cells record.We have used <strong>SVM machine learning
+            classification</strong> algorithm to classify cells to whether the samples are benign or malignant.`
     },
     {
       title: 'House Price Prediction',
       duration: 'Sep 2020',
       link: 'https://github.com/krsanu555/house-price-predictor',
-      desc: `The dataset contains house sale prices for King County,USA which includes Seattle. It includes homes sold between May 2014 and May 2015. Prepared a Linear 
-             Regression model to predict the price of house based on the data related to housing conditions. Also used GradientBoostingRegressor for better accuracy of the model.`
+      desc: `The dataset contains house sale prices for King County,USA which includes Seattle. It includes homes sold between May 2014 and May 2015. Prepared a <strong>Linear 
+             Regression</strong> model to predict the price of house based on the data related to housing conditions. Also used <strong>GradientBoostingRegressor</strong> for better accuracy of the model.`
     },
     {
       title: 'Opening New Bar in Delhi,India',
