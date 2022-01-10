@@ -43,7 +43,7 @@ const profileData = {
     {
       graph: 'false',
       category: 'Programming Languages',
-      topics: ['C#','Python','Jquery/JavaScript','HTML','CSS']
+      topics: ['C#','Python','HTML','CSS','Jquery/JavaScript']
     },
     {
       graph: 'false',
@@ -98,7 +98,7 @@ const profileData = {
       date: 'Apr 2021 - Present',
       details: [
         `Developed and incorporated <strong>new features</strong> in HealthCare Product.`,
-        `<strong>Optimised</strong> product performance by reducing overall turn around time of <strong>case processing</strong>.`,
+        `Optimised <strong>product performance</strong> by reducing overall turn around time of <strong>case processing</strong>.`,
 	`Worked on <strong>ML algorithm</strong> integration in the app.`,
 	`Improved <strong>DICOM Structured Report</strong> and <strong>Result</strong> sent to PACS.`
        ]
