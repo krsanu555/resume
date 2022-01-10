@@ -48,12 +48,12 @@ const profileData = {
     {
       graph: 'false',
       category: 'Databases',
-      topics: ['MS SQL','MySQL',]
+      topics: ['MS SQL','MySQL']
     },
     {
       graph: 'false',
       category: 'Frameworks / Libraries',
-      topics: ['.Net','ASP.NET MVC','ASP.NET Webforms','.Net Framework','.Net Core', 'Angular 8','Django']
+      topics: ['.Net Framework','.Net Core', 'Angular','Django']
     },
    {
       graph: 'false',
@@ -109,10 +109,10 @@ const profileData = {
       desc: `Sr Software Engineer`,
       date: 'Nov 2018 - Mar 2021',
       details: [     
-	`Converted a MVC architecture web application into a client server application by creating <strong>RESTful ASP.NET Web APIs</strong> following industry-standard design patterns and best coding practices and consuming these APIs endpoints in that 
-         web application. Also Worked on Authentication & Authorization of <strong>ASP.NET Web APIs</strong> using AD Groups and made it accessible only through Client Network.`,	
-        `Created and Secured <strong>build & config</strong> profiles for different <strong>deployment</strong> environments i.e. Development,QA and
-         Production for many .Net applications.`,     
+	`Converted MVC architecture web application into a client server application by creating <strong>RESTful ASP.NET Web APIs</strong> following industry-standard design patterns and best coding practices and consuming these APIs endpoints in that 
+         web application.`
+	 /*`Created and Secured <strong>build & config</strong> profiles for different <strong>deployment</strong> environments i.e. Development,QA and
+         Production for many .Net applications.`, */    
         `<strong>Optimized</strong> one method for generating report in Excel format through database restructuring and some code changes for the associated application by <strong>40%</strong>.`,	
 	`Worked on enhancement tasks as per the client's expectations in multiple applications that uses <strong>C#</strong> as programming language,<strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong> as web 
          technology,<strong>ADO.Net</strong>,<strong>Entity Framework</strong> for data access operations and <strong>MS SQL Server</strong> as database. Resolved more than 
@@ -141,17 +141,17 @@ const profileData = {
       title: 'certifications',
       body: [
 	   {
-          desc: `<strong>Microsoft Data Fundamentals</strong>, certified by <strong>Microsoft</strong>. (View Certificate: <a target='_blank' href='https://www.credly.com/earner/earned/badge/16ded3db-8318-427c-b3a2-89f3a2d1eb30'>https://goo.gl/QRTyGv</a>)`,
+          desc: `<strong>Microsoft Azure Fundamentals</strong>, certified by <strong>Microsoft</strong>. (View Certificate: <a target='_blank' href='https://www.credly.com/badges/16ded3db-8318-427c-b3a2-89f3a2d1eb30/public_url'>https://goo.gl/QRTyGv</a>)`,
           date: 'Jan 2022'
           },
 	  {
-          desc: `<strong>Microsoft Azure Data Fundamentals</strong>, certified by <strong>Microsoft</strong>. (View Certificate: <a target='_blank' href='https://www.credly.com/earner/earned/badge/49d49096-e5aa-4044-a165-1ff79057bf31'>https://goo.gl/ZSDFtR</a>)`,
+          desc: `<strong>Microsoft Azure Data Fundamentals</strong>, certified by <strong>Microsoft</strong>. (View Certificate: <a target='_blank' href='https://www.credly.com/badges/49d49096-e5aa-4044-a165-1ff79057bf31/public_url'>https://goo.gl/ZSDFtR</a>)`,
           date: 'Jan 2022'
           },
-	{
+	/*{
           desc: `<strong>AI For Everyone</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/certificate/QS9VBRGBVC7Y'>https://goo.gl/XuvT3I</a>)`,
           date: 'Nov 2020'
-        },
+        },*/
 	     {
           desc: `<strong>IBM Data Science Professional Certificate</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/specialization/certificate/SLENGR7SW2NC'>https://goo.gl/RZXcVr</a>)`,
           date: 'Sep 2020'
