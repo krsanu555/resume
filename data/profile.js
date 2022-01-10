@@ -9,11 +9,11 @@ const profileData = {
     contact: {
       email: 'krsanurajput@outlook.com',
       phone: '+91-7017448771',
-      address: 'Mumbai, Maharashtra 400708'
+      address: 'Bangalore, Karnataka 560100'
     }
   },
   links: [
-    { title: 'Portfolio', src: 'https://krsanu555.github.io/' },
+    //{ title: 'Portfolio', src: 'https://krsanu555.github.io/' },
     { title: 'Github', src: 'https://github.com/krsanu555' },
     { title: 'LinkedIn', src: 'https://www.linkedin.com/in/krsanu555' },
    // { title: 'Twitter', src: 'https://twitter.com/krsanu555' },
@@ -57,8 +57,8 @@ const profileData = {
     },
    {
       graph: 'false',
-      category: 'DEV Tools',
-      topics: ['Visual Studio 17/19', 'VS Code','Pycharm','Git','Postman']
+      category: 'Tools/Technologies',
+      topics: ['Visual Studio 17/19', 'VS Code','Pycharm','Git','Postman',"Microsoft Azure"]
     }
   ],
   projects: [
@@ -83,7 +83,7 @@ const profileData = {
              techniques to extract neighborhoods data from Wikipedia, <strong>geopy</strong> package to get geographical co-ordinates, foursquare api to get venues data, <strong>folium</strong> library to 
              visualize on map, <strong>K-means Clustering</strong> to cluster those neighborhoods and find the best cluster.`
     },
-	{
+ {
       title: 'Authentication and Authorization Using JWT in Angular and .Net Web API',
       duration: 'Aug 2019',
       link: 'https://github.com/krsanu555/authentication-and-authorization-in-angular',
@@ -91,11 +91,23 @@ const profileData = {
   
   ],
   experiences: [
+   {
+      organization: 'Siemens Healthineers',
+      title: `Software Engineer`,
+      desc: `Software Engineer`,
+      date: 'Apr 2021 - Present',
+      details: [
+        `Developed and incorporated new features in HealthCare Product.`,
+        `Optimised product performance by reducing overall turn around time of case processing.`,
+	`Worked on ML algorithm integration in the app.`,
+	`Improved DICOM Structured Report and Result sent to PACS.`
+       ]
+    },  
     {
       organization: 'Capgemini',
       title: `Sr Software Engineer`,
       desc: `Sr Software Engineer`,
-      date: 'Nov 2018 - Present',
+      date: 'Nov 2018 - Mar 2021',
       details: [     
 	`Converted a MVC architecture web application into a client server application by creating <strong>RESTful ASP.NET Web APIs</strong> following industry-standard design patterns and best coding practices and consuming these APIs endpoints in that 
          web application. Also Worked on Authentication & Authorization of <strong>ASP.NET Web APIs</strong> using AD Groups and made it accessible only through Client Network.`,	
@@ -107,10 +119,10 @@ const profileData = {
          <strong>50 bugs/issues</strong> in existing applications.`,
 	`Contributed in the development of an application where we have used <strong>Angular</strong> in the front-end,
          <strong>Python</strong> with <strong>Django Rest Framework</strong> in the backend and <strong>MySQL</strong> for database.`,
-	`Worked in <strong>Agile environment</strong> and used <strong>Azure Devops</strong> CI/CD pipeline for deploying software.Have Knowledge of <strong>NUnit</strong> unit-testing framework and <strong>.Net Core</strong> Web API.`
+	`Worked in <strong>Agile environment</strong> and used <strong>Azure Devops</strong> CI/CD pipeline for deploying software.`
       ]
     },
-    {
+   /* {
       organization: 'Wildnet Technologies',
       title: 'Full-Stack Developer Intern',
       desc: `<strong>Full-Stack Developer intern</strong> at  <a target='_blank' href='https://www.wildnettechnologies.com/'> <strong>Wildnet Technology </strong> </a> (<a target='_blank' href='http://ep3dev.azurewebsites.net/'>Project Link</a>)`,
@@ -122,13 +134,21 @@ const profileData = {
         <strong>Asp.net MVC</strong>.`,
 	`Worked on Payment Gateway Integration for this app.`
       ]
-    }
+    }*/
   ],
   events: [
     {
       title: 'certifications',
       body: [
-	      {
+	   {
+          desc: `<strong>Microsoft Data Fundamentals</strong>, certified by <strong>Microsoft</strong>. (View Certificate: <a target='_blank' href='https://www.credly.com/earner/earned/badge/16ded3db-8318-427c-b3a2-89f3a2d1eb30'>https://goo.gl/QRTyGv</a>)`,
+          date: 'Jan 2022'
+          },
+	  {
+          desc: `<strong>Microsoft Azure Data Fundamentals</strong>, certified by <strong>Microsoft</strong>. (View Certificate: <a target='_blank' href='https://www.credly.com/earner/earned/badge/49d49096-e5aa-4044-a165-1ff79057bf31'>https://goo.gl/ZSDFtR</a>)`,
+          date: 'Jan 2022'
+          },
+	{
           desc: `<strong>AI For Everyone</strong>, certified by <strong>Coursera</strong>. (View Certificate: <a target='_blank' href='https://www.coursera.org/account/accomplishments/certificate/QS9VBRGBVC7Y'>https://goo.gl/XuvT3I</a>)`,
           date: 'Nov 2020'
         },
@@ -150,7 +170,7 @@ const profileData = {
         }
       ]
     },
-    {
+    /*{
       title: 'Workshops',
       body: [      
        {
