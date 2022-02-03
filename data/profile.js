@@ -43,7 +43,7 @@ const profileData = {
     {
       graph: 'false',
       category: 'Programming Languages',
-      topics: ['C#','Python','HTML','CSS','Jquery/JavaScript']
+      topics: ['C#','Python','JavaScript']
     },
     {
       graph: 'false',
@@ -53,12 +53,12 @@ const profileData = {
     {
       graph: 'false',
       category: 'Frameworks / Libraries',
-      topics: ['.Net Framework','.Net Core', 'Angular','Django']
+      topics: ['.Net','.Net Core', 'Angular','Django']
     },
    {
       graph: 'false',
       category: 'Tools/Technologies',
-      topics: ['Data Science', 'Data Analysis','Machine Learning',"Git","SQL","Microsoft Azure"]
+      topics: ['Machine Learning',"Git","SQL","Microsoft Azure"]
     }
   ],
   projects: [
