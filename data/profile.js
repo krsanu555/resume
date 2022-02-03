@@ -125,30 +125,13 @@ const profileData = {
       desc: `Sr Software Engineer`,
       date: 'Nov 2018 - Mar 2021',
       details: [
-	`Worked on multiple projects for US largest HealthCare Provider using <strong>C#, ASP.NET, ASP.NET MVC, ASP.NET WEB API, ADO.Net, Entity Framework and MS SQL Server </strong> to manage their 30+ hospitals and several specialized facilities across 6 states.`,
-        `Converted MVC architecture web application into a client server application by creating <strong>RESTful ASP.NET Web APIs</strong> following industry-standard design patterns and best coding practices.`,
-	 /*`Created and Secured <strong>build & config</strong> profiles for different <strong>deployment</strong> environments i.e. Development,QA and
-         Production for many .Net applications.`, */    
+	`Contributed in the development of a HealthCare domain application using <strong>Angular</strong> in the front-end, <strong>ASP.NET Core Web API</strong> in the backend and <strong>SQL Server</strong> for database following industry-standard design patterns and best coding practices.`,
+	`Worked on multiple application for US largest HealthCare Provider using <strong>C#, ASP.NET, ASP.NET MVC, ASP.NET WEB API, ADO.Net, Entity Framework and MS SQL Server </strong> to manage their 30+ hospitals and several specialized facilities across 6 states.`,  
         `<strong>Optimized</strong> one method for generating report in Excel format through database restructuring and some code changes for the associated application by <strong>40%</strong>.`,	
-	/*`Worked on enhancement tasks in multiple applications that uses <strong>C#</strong> as programming language,<strong>ASP.NET,ASP.NET MVC, ASP.NET WEB API</strong> as web 
-         technology,<strong>ADO.Net</strong>,<strong>Entity Framework</strong> for data access operations and <strong>MS SQL Server</strong> as database.`,*/
 	`Contributed in the development of an application where we have used <strong>Angular</strong> in the front-end,<strong>Python</strong> with <strong>Django Rest Framework</strong> in the backend and <strong>MySQL</strong> for database.`,
 	`Worked in <strong>Agile environment</strong> and used <strong>Azure Devops</strong> CI/CD pipeline for deploying software.`,
       ]
-    },
-   /* {
-      organization: 'Wildnet Technologies',
-      title: 'Full-Stack Developer Intern',
-      desc: `<strong>Full-Stack Developer intern</strong> at  <a target='_blank' href='https://www.wildnettechnologies.com/'> <strong>Wildnet Technology </strong> </a> (<a target='_blank' href='http://ep3dev.azurewebsites.net/'>Project Link</a>)`,
-      date: 'Jun 2018 - Oct 2018',
-      details: [
-        `Designed and developed a <strong>E-Commerce Web Application</strong> using <strong>ASP.Net MVC </strong>.
-         This application includes functionality related to different roles i.e. Supplier,Producer, Admin and End User.`,
-        `Modified the <strong>Multi-level Menu</strong> for different category of products using <strong>Jquery</strong>, <strong>Ajax</strong> and 
-        <strong>Asp.net MVC</strong>.`,
-	`Worked on Payment Gateway Integration for this app.`
-      ]
-    }*/
+    }
   ],
   events: [
     {
