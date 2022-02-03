@@ -125,8 +125,8 @@ const profileData = {
       desc: `Sr Software Engineer`,
       date: 'Nov 2018 - Mar 2021',
       details: [
-	`Contributed in the development of a HealthCare domain application using <strong>Angular</strong> in the front-end, <strong>ASP.NET Core Web API</strong> in the backend and <strong>SQL Server</strong> for database following industry-standard design patterns and best coding practices.`,
-	`Worked on multiple application for US largest HealthCare Provider using <strong>C#, ASP.NET, ASP.NET MVC, ASP.NET WEB API, ADO.Net, Entity Framework and MS SQL Server </strong> to manage their 30+ hospitals and several specialized facilities across 6 states.`,  
+	/*`Contributed in the development of a HealthCare domain application using <strong>Angular</strong> in the front-end, <strong>ASP.NET Core Web API</strong> in the backend and <strong>SQL Server</strong> for database following industry-standard design patterns and best coding practices.`,*/
+	`Worked on multiple application for US largest HealthCare Provider using <strong>C#, ASP.NET, ASP.NET MVC, ASP.NET WEB API, ASP.NET Core WEB API, ADO.Net, Entity Framework and MS SQL Server </strong> to manage their 30+ hospitals and several specialized facilities across 6 states.`,  
         `<strong>Optimized</strong> one method for generating report in Excel format through database restructuring and some code changes for the associated application by <strong>40%</strong>.`,	
 	`Contributed in the development of an application where we have used <strong>Angular</strong> in the front-end,<strong>Python</strong> with <strong>Django Rest Framework</strong> in the backend and <strong>MySQL</strong> for database.`,
 	`Worked in <strong>Agile environment</strong> and used <strong>Azure Devops</strong> CI/CD pipeline for deploying software.`,
