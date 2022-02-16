@@ -130,6 +130,7 @@ const profileData = {
 	`Worked on multiple applications for <strong>US largest HealthCare Provider</strong> to manage their 30+ hospitals and several specialized facilities across 6 states.`,  
         `<strong>Optimized</strong> report generation task in Excel format through database restructuring and some code changes for the associated application by <strong>40%</strong>.`,	
 	`Contributed in the development of an application where we have used <strong>Angular</strong> in the front-end,<strong>Python</strong> with <strong>Django Rest Framework</strong> in the backend and <strong>MySQL</strong> for database.`,
+	`Implemented <strong>JWT Authentication & Authorization</strong> in ASP.NET Core Web API application.`,
 	`Worked in <strong>Agile environment</strong> and used <strong>Azure Devops</strong> CI/CD pipeline for deploying software.`,
 	`Technologies Used: <strong>C#, Python, Angular, Django, ASP.NET MVC, ASP.NET Core WEB APIs, ADO.Net, Entity Framework, MS SQL Server</strong>.`
       ]
