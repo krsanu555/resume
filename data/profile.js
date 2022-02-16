@@ -117,7 +117,7 @@ const profileData = {
 	`Worked on <strong>ML algorithm</strong> integration in the app.`,
 	`Improved <strong>DICOM Structured Report</strong> and <strong>Result</strong> sent to PACS.`,
 	`Writing <strong>UTs</strong> along the way in projects maintaining approx <strong>90% code coverage</strong>.`,
-	`Technologies Used: <strong>C++,C#,.Net Core,Angular,Docker,Kubernetes,Azure</strong>.`
+	`Technologies Used: <strong>C++,C#, .Net Core,Angular,Docker,Kubernetes,Azure</strong>.`,
        ]
     },  
     {
@@ -128,7 +128,7 @@ const profileData = {
       details: [
 	/*`Contributed in the development of a HealthCare domain application using <strong>Angular</strong> in the front-end, <strong>ASP.NET Core Web API</strong> in the backend and <strong>SQL Server</strong> for database following industry-standard design patterns and best coding practices.`,*/
 	`Worked on multiple applications for US largest HealthCare Provider to manage their 30+ hospitals and several specialized facilities across 6 states.`,  
-        `<strong>Optimized</strong>report generation task in Excel format through database restructuring and some code changes for the associated application by <strong>40%</strong>.`,	
+        `<strong>Optimized</strong> report generation task in Excel format through database restructuring and some code changes for the associated application by <strong>40%</strong>.`,	
 	`Contributed in the development of an application where we have used <strong>Angular</strong> in the front-end,<strong>Python</strong> with <strong>Django Rest Framework</strong> in the backend and <strong>MySQL</strong> for database.`,
 	`Worked in <strong>Agile environment</strong> and used <strong>Azure Devops</strong> CI/CD pipeline for deploying software.`,
 	`Technologies Used: <strong>C#,Python, Angular,Django,ASP.NET, ASP.NET MVC, ASP.NET WEB API, ASP.NET Core WEB API, ADO.Net, Entity Framework and MS SQL Server </strong>.`
