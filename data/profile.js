@@ -117,7 +117,7 @@ const profileData = {
 	`Worked on <strong>ML algorithm</strong> integration in the app.`,
 	`Improved <strong>DICOM Structured Report</strong> and <strong>Result</strong> sent to PACS.`,
 	`Writing <strong>UTs</strong> along the way in projects maintaining approx <strong>90% code coverage</strong>.`,
-	`Technologies Used: <strong>Azure, C++, C#, .Net Core, Angular, Docker, Kubernetes/strong>.`
+	`Technologies Used: <strong>Azure, C++, C#, .Net Core, Angular, Docker, Kubernetes</strong>.`
        ]
     },  
     {
