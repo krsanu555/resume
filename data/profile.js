@@ -75,7 +75,7 @@ const profileData = {
       desc: `In this project,We have used <strong>OpenCV</strong> for face detection and Deep Learning <strong>FaceNet</strong> model for face recognition. We have implemented
             this system for identifying faces in images as well as in live video stream.`
     },
-    {
+     /*{{
       title: 'Cancer Detection',
       duration: 'Sep 2020',
       link: 'https://github.com/krsanu555/cancer-detection',
@@ -88,7 +88,7 @@ const profileData = {
       link: 'https://github.com/krsanu555/house-price-predictor',
       desc: `The dataset contains house sale prices for King County,USA which includes Seattle. It includes homes sold between May 2014 and May 2015. Prepared a <strong>Linear 
              Regression</strong> model to predict the price of house based on the data related to housing conditions. Also used <strong>GradientBoostingRegressor</strong> for better accuracy of the model.`
-    },
+    },*/
     {
       title: 'Opening New Bar in Delhi,India',
       duration: 'July- Aug 2020',
